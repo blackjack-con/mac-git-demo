@@ -6,6 +6,8 @@ Test Setup  Common.Begin Web Test
 Test Teardown  Common.End Web Test
 #git demo upload test01 +++/ 2 objects at once
 
+#other user changes on mac version
+
 *** Variables ***
 ${BROWSER} =  chrome
 ${START_URL} =  https://www.amazon.com
