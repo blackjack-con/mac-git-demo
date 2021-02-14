@@ -7,3 +7,4 @@ Verify Product Added
 
 Proceed to Checkout
     Click Link  id=hlb-ptc-btn-native
+    #git demo upload test01 +++/ 2 objects at once
