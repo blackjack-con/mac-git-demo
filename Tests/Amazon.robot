@@ -15,7 +15,7 @@ ${SEARCH_TERM} =  Lamborghini Gallardo
 
 *** Test Cases ***
 Logged out user can search for products
-    [Tags]  Current
+    [Tags]  Search
     Amazon.Search for Products
 
 Logged out user can view a product
